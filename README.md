@@ -1,5 +1,5 @@
-# Pre-practica
-#chat-bot for displaying weather
+Chat-bot for displaying weather
+
 import datetime as dt
 import requests
 
